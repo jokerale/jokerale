@@ -1,8 +1,7 @@
 ### Ciao 👋
 My name is Alessio Diana but everybody calls me Diana!
 
- 📫 Reach me at: alessio.diana [at] studenti.unipr.it
-             or: alessiodiana01 [at] gmail.com
+ 📫 Reach me at: alessio.diana [at] studenti.unipr.it || alessiodiana01 [at] gmail.com
 <!--
 **jokerale/jokerale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
