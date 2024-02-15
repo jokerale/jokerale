@@ -1,7 +1,7 @@
 ### Ciao 👋
 My name is Alessio Diana but everybody calls me Diana!
 
- 📫 Reach me at: alessio.diana [at] unibo.it || alessiodiana01 [at] gmail.com
+ 📫 Reach me at: alessio.diana [at] unibo [dot] it || alessiodiana01 [at] gmail [dot] com
  
  You can find me on LinkedIn at www.linkedin.com/in/alessio-diana
 
